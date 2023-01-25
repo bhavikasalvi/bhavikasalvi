@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am Bhavika👋
 - 🌱 I’m currently an undergraduate student pursuing Artificial Intelligence and Data Science, with an interest in Machine Learning 
 
 <!--
